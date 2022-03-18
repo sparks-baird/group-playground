@@ -2,6 +2,8 @@
 def add_one(a):
   return a+1
 
+def add_thousand(a):
+  return a+1000
 
 def best_group():
     return 'Sparks group obviously'
